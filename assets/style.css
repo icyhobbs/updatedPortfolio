@@ -1,0 +1,77 @@
+* {
+  font-family: "Fuzzy Bubbles", cursive;
+}
+body {
+  background-color: black !important;
+  margin: 15px;
+}
+.row {
+  padding: 10px;
+  color: ghostwhite;
+}
+#buttonsize .btn {
+  width: 400px;
+  height: 8rem;
+  border-radius: 35px;
+}
+btn.group {
+  justify-content: center;
+}
+.jumbotron {
+  background-color: black !important;
+  text-align: center;
+  color: ghostwhite !important;
+  margin-bottom: 0px !important;
+  padding-left: 30px !important;
+  padding-right: 30px !important;
+}
+
+footer {
+  padding-top: 60px;
+  display: flex;
+  background-color: black;
+  justify-content: space-between;
+  text-align: center;
+  color: ghostwhite;
+  height: 25px;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.lead {
+  padding: 5px;
+}
+
+.fa {
+  padding: 5px;
+  font-size: 20px;
+  width: 200px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  color: ghostwhite;
+}
+
+#socials {
+  justify-content: space-around;
+}
+.dropdown {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+
+a:link {
+  color: #ffffff;
+}
+
+a:visited {
+  color: #ffffff;
+}
+
+a:hover {
+  color: #ffffff;
+}

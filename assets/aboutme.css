@@ -1,0 +1,13 @@
+* {
+  font-family: "Fuzzy Bubbles", cursive;
+  background-color: black;
+  color: ghostwhite;
+}
+body {
+}
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
